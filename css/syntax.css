@@ -1,5 +1,28 @@
+/* Style all p tags */
+
 p{
     font-size: 18px;
     color: blue;
+}
+
+#header p{
+    font-size: 24px;
+}
+
+/* Style all header tags */
+
+h1 {
+    font-size: 32px;
+    
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+    }
+
+div {
+    width: 100%;
+    background-color: grey;
 
 }
