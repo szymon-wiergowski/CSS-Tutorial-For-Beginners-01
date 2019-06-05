@@ -5,7 +5,7 @@ p{
     color: blue;
 }
 
-#header p{
+#header {
     font-size: 24px;
 }
 
@@ -18,11 +18,16 @@ h1 {
 
 a{
     text-decoration: underline;
-    color: blue;
-    }
+    color: rgb(21, 255, 0);
+}
 
 div {
     width: 100%;
     background-color: grey;
+}
 
+.deck {
+    font-size: 20px;
+    color: rgb(35, 150, 158);
+    
 }
